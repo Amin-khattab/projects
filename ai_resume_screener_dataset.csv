@@ -1,0 +1,101 @@
+YearsExperience,Degree,FieldOfStudy,Certifications,ProjectsCompleted,PreviousRole,Python,SQL,Machine Learning,Data Analysis,Java,C++,Shortlisted
+0,Bachelor's,Information Technology,Yes,7,Intern,0,1,0,1,0,0,0
+1,PhD,Electrical Engineering,No,9,Intern,1,0,0,1,0,0,1
+7,Bachelor's,Computer Science,No,6,Intern,1,0,1,1,0,1,0
+2,Bachelor's,Computer Science,No,9,Intern,1,1,0,1,1,0,0
+9,PhD,Business,No,9,Data Analyst,1,0,0,0,0,0,1
+3,Master's,Information Technology,No,3,Software Engineer,0,1,0,0,0,1,1
+7,Master's,Information Technology,Yes,4,Software Engineer,1,1,1,1,0,0,0
+9,Bachelor's,Information Technology,Yes,1,Project Manager,1,1,0,1,0,1,1
+5,Bachelor's,Information Technology,No,8,Software Engineer,1,0,1,0,0,0,0
+0,Bachelor's,Information Technology,Yes,10,Software Engineer,0,1,1,0,0,0,1
+7,PhD,Electrical Engineering,No,3,Project Manager,1,0,1,1,0,0,0
+10,PhD,Business,Yes,3,Intern,1,0,0,1,0,1,0
+1,Master's,Electrical Engineering,No,1,Data Analyst,0,1,1,0,1,1,1
+3,PhD,Business,Yes,9,Intern,1,0,0,1,0,1,0
+6,Bachelor's,Computer Science,No,2,Software Engineer,1,1,0,1,0,1,1
+5,Master's,Electrical Engineering,No,0,Software Engineer,0,0,0,1,0,0,1
+5,Master's,Information Technology,Yes,0,Data Analyst,0,1,1,1,0,0,0
+5,Master's,Business,Yes,3,Software Engineer,0,1,1,0,0,0,0
+2,Master's,Business,Yes,4,Data Analyst,1,0,0,0,0,1,1
+0,PhD,Computer Science,No,1,Project Manager,1,0,1,0,1,0,1
+3,Bachelor's,Information Technology,Yes,8,Intern,0,1,0,0,0,0,0
+2,Bachelor's,Computer Science,Yes,7,Project Manager,0,1,0,1,0,0,1
+9,Bachelor's,Business,Yes,0,Data Analyst,0,0,0,1,0,0,1
+3,Master's,Computer Science,No,2,Project Manager,1,0,0,1,1,0,0
+2,Bachelor's,Business,No,3,Intern,0,0,0,1,1,1,0
+9,Master's,Information Technology,No,5,Project Manager,0,0,1,0,1,0,1
+9,Bachelor's,Electrical Engineering,Yes,7,Intern,0,0,1,1,1,1,0
+1,Master's,Electrical Engineering,Yes,6,Project Manager,0,0,1,0,0,0,0
+3,PhD,Business,Yes,4,Software Engineer,0,1,1,0,0,0,1
+5,Master's,Business,No,10,Intern,0,1,1,0,1,0,1
+7,Master's,Business,No,2,Intern,1,0,0,0,0,0,0
+6,Master's,Electrical Engineering,No,6,Software Engineer,1,0,1,0,0,1,0
+3,Master's,Information Technology,Yes,2,Software Engineer,0,0,0,0,0,1,0
+4,Bachelor's,Computer Science,Yes,7,Data Analyst,0,1,0,0,0,0,1
+10,Bachelor's,Electrical Engineering,Yes,10,Project Manager,0,1,1,0,0,0,1
+10,Master's,Business,Yes,0,Software Engineer,1,0,1,1,0,1,0
+1,Bachelor's,Electrical Engineering,Yes,8,Data Analyst,0,1,0,0,0,0,0
+5,Master's,Information Technology,Yes,8,Intern,0,0,0,1,0,1,0
+2,Bachelor's,Computer Science,Yes,2,Data Analyst,1,0,0,0,0,0,1
+0,Bachelor's,Business,No,6,Project Manager,0,1,0,0,0,0,0
+7,Bachelor's,Computer Science,No,10,Software Engineer,0,0,1,1,1,1,0
+3,Master's,Information Technology,Yes,1,Project Manager,0,1,0,0,1,1,1
+8,PhD,Information Technology,Yes,8,Project Manager,1,1,0,1,1,0,1
+10,PhD,Business,Yes,10,Data Analyst,0,0,0,1,0,0,0
+7,PhD,Electrical Engineering,No,8,Project Manager,1,0,0,0,0,0,1
+3,Master's,Information Technology,No,1,Software Engineer,0,1,0,0,1,0,1
+2,Bachelor's,Computer Science,No,10,Data Analyst,1,1,0,1,1,0,1
+10,Bachelor's,Business,Yes,9,Project Manager,1,0,0,1,1,1,0
+10,Master's,Business,No,5,Intern,1,1,0,0,0,1,0
+4,PhD,Electrical Engineering,No,5,Project Manager,0,0,1,0,1,1,0
+4,Master's,Business,No,8,Data Analyst,1,0,0,1,0,1,1
+7,PhD,Business,Yes,0,Software Engineer,1,0,0,1,1,0,1
+2,Bachelor's,Information Technology,No,2,Software Engineer,0,0,1,0,1,0,1
+2,PhD,Electrical Engineering,Yes,9,Intern,1,1,1,0,1,0,0
+3,Bachelor's,Electrical Engineering,No,0,Project Manager,0,1,0,0,1,1,0
+4,Master's,Information Technology,Yes,6,Project Manager,0,1,0,1,0,0,0
+10,Master's,Electrical Engineering,Yes,7,Data Analyst,0,0,0,1,1,0,0
+2,Master's,Information Technology,Yes,6,Software Engineer,0,1,1,0,0,0,1
+2,Master's,Electrical Engineering,No,7,Project Manager,1,1,1,0,1,0,1
+0,PhD,Computer Science,No,4,Software Engineer,0,0,0,0,0,1,1
+1,Bachelor's,Information Technology,No,10,Software Engineer,0,1,1,0,0,1,0
+3,Master's,Electrical Engineering,Yes,4,Software Engineer,0,0,0,0,0,1,0
+8,Master's,Information Technology,Yes,0,Software Engineer,0,0,0,1,0,1,1
+10,Bachelor's,Computer Science,No,9,Data Analyst,0,0,0,1,0,0,1
+6,Master's,Information Technology,Yes,0,Intern,0,1,1,0,1,0,1
+5,Bachelor's,Information Technology,No,2,Intern,0,0,0,0,1,0,1
+4,Bachelor's,Electrical Engineering,Yes,4,Data Analyst,0,0,0,1,0,0,1
+10,PhD,Electrical Engineering,No,3,Intern,0,0,1,1,1,1,0
+5,PhD,Computer Science,Yes,10,Software Engineer,1,1,1,1,0,0,0
+5,PhD,Electrical Engineering,Yes,9,Software Engineer,1,1,0,0,1,0,1
+4,Master's,Electrical Engineering,No,5,Data Analyst,0,1,1,1,0,0,1
+0,PhD,Information Technology,Yes,1,Intern,0,1,0,0,0,0,1
+9,Master's,Business,Yes,2,Project Manager,0,1,1,1,0,1,1
+6,PhD,Computer Science,No,4,Data Analyst,0,1,0,0,0,0,1
+3,Master's,Information Technology,Yes,9,Software Engineer,1,0,0,0,0,0,0
+5,PhD,Computer Science,No,2,Intern,0,1,1,1,0,1,1
+8,Bachelor's,Business,Yes,3,Project Manager,0,0,1,1,0,1,1
+4,PhD,Electrical Engineering,Yes,7,Software Engineer,1,1,0,1,1,0,0
+3,PhD,Computer Science,No,0,Software Engineer,0,1,1,0,1,0,0
+9,Bachelor's,Information Technology,No,7,Data Analyst,1,0,0,1,1,1,1
+5,PhD,Information Technology,No,2,Intern,0,1,1,0,1,0,1
+7,PhD,Business,Yes,2,Project Manager,0,0,1,1,0,0,1
+6,Master's,Computer Science,No,9,Project Manager,0,0,0,0,0,1,0
+9,Master's,Computer Science,Yes,0,Software Engineer,0,0,0,1,0,0,0
+10,Bachelor's,Information Technology,Yes,3,Intern,0,0,0,1,0,0,1
+8,Bachelor's,Electrical Engineering,Yes,10,Data Analyst,0,1,0,0,0,1,0
+8,Bachelor's,Computer Science,No,10,Data Analyst,0,0,1,0,0,1,0
+6,PhD,Electrical Engineering,No,7,Intern,0,0,0,1,0,1,0
+6,Master's,Business,Yes,3,Intern,0,0,0,0,0,1,1
+0,Bachelor's,Business,No,5,Project Manager,0,1,1,1,0,1,1
+8,Bachelor's,Information Technology,Yes,10,Data Analyst,0,0,0,0,0,1,1
+3,Bachelor's,Information Technology,No,9,Project Manager,1,0,0,0,0,1,1
+3,Master's,Computer Science,No,6,Intern,1,1,0,0,1,1,0
+0,PhD,Information Technology,Yes,6,Software Engineer,0,1,0,1,0,1,1
+8,Bachelor's,Information Technology,Yes,7,Intern,1,1,1,1,0,0,1
+1,Master's,Electrical Engineering,Yes,5,Software Engineer,0,0,0,0,1,1,1
+1,PhD,Information Technology,No,1,Project Manager,1,0,0,1,0,1,0
+7,Master's,Computer Science,No,3,Intern,1,0,0,0,0,0,0
+7,Master's,Computer Science,No,0,Project Manager,0,0,0,0,1,0,0
+7,PhD,Computer Science,No,5,Data Analyst,0,0,0,0,1,0,1
