@@ -1,9 +1,9 @@
 responses = {
-"hello":"Wazup ma nigger ",
-"how are you doing ?":"I am doing fine, nigger AYE",
-"fick off bitch": "ts accent is so ahh 🥀",
-"bye":"SYFM Bitch",
-"nigger":"nigger"
+"hello":" hello there how are you doing BTW ?",
+"how are you doing ?":" iam doing alright, thanks for asking.",
+"i have a question": "",
+"bye":"",
+"":""
 }
 
 def chatbot():
@@ -21,6 +21,6 @@ def chatbot():
                 break
 
         else:
-            print("SHOW ME YOUR WILLY")
+            print("didnt get that sorry.")
 
 chatbot()
