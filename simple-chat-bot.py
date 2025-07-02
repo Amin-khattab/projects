@@ -16,6 +16,10 @@ responses = {
 
 def chatbot():
 
+        #btw even if the text only conatins parts it will not be a problem like even if said only "question"
+        #it will say "question away i am here to help you"
+
+
     print("if you want to exit type 'exit'")
     while True:
         user_input = input("Chatbot: lets a have a little chat shall we ?")
