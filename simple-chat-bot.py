@@ -1,4 +1,5 @@
 import random
+import re
 
 quote = ["Fear leads to anger. Anger leads to hate. Hate leads to suffering.",
         "Do. Or do not. There is no try.",
@@ -8,17 +9,13 @@ quote = ["Fear leads to anger. Anger leads to hate. Hate leads to suffering.",
         ]
 
 responses = {
-"hello":" hello there how are you doing BTW ?",
-"how are you doing ?":" iam doing alright, thanks for asking.",
-"i have a question": "question away i am here to help you",
-"bye":"see you later !"
+r"\b(hi|hello)\b":" hello there, how are you doing BTW",
+r"how\s*are\s*you\s*doing\??":" iam doing alright, thanks for asking.",
+r"i\s*have\s*a\s*question\??": "question away i am here to help you",
+r"\b(bye|goodbye)\b":"see you later !"
 }
 
 def chatbot():
-
-        #btw even if the text only conatins parts it will not be a problem like even if said only "question"
-        #it will say "question away i am here to help you"
-
 
     print("if you want to exit type 'exit'")
     while True:
@@ -31,12 +28,11 @@ def chatbot():
             rand = random.choice(quote)
             print(f"chatbot: {rand}")
             continue
-        for key in responses:
-            if key in user_input or user_input in key:
-                print(f"chatbot:{responses[key]}")
+        for pattern,response in responses.items():
+            if re.search(pattern,user_input,re.IGNORECASE):
+                print(f"chatbot: {response}")
                 break
         else:
             print("didn't get that sorry.")
 
 chatbot()
-
