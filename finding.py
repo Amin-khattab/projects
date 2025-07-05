@@ -1,8 +1,8 @@
-import pandas as pd
+import pandas as pd   #to use this you must have a csv data that has the columns as name-age-job-city 
 
 question = input("what is your question about someone ?").lower().split()
 
-dataset = pd.read_csv("amin.csv")
+dataset = pd.read_csv("data.csv")
 
 found = False
 
