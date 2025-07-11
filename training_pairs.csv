@@ -1,0 +1,37 @@
+input,output
+Name=Amin;Age=19;Job=AIE;Location=Erbil,Amin is a 19-year-old AIE from Erbil.
+Name=John;Age=25;Job=Engineer;Location=New York,John is a 25-year-old Engineer from New York.
+Name=Noor;Age=18;Job=Civil Engineer;Location=Hawler,Art is a 18-year-old Civil Engineer from Erbil.
+Name=Ahmed;Age=24;Job=Web-dev;Location=Erbil,Ahmed is a 24-year-old Web-dev from Erbil.
+Name=Hope;Age=18;Job=AIE;Location=Erbil,Hope is a 18-year-old AIE from Erbil.
+Name=Sara;Age=30;Job=Doc;Location=Bucharest,Sara is a 30-year-old Doc from Bucharest.
+Name=Ava;Age=27;Job=Pharmacist;Location=Oslo,Ava is a 27-year-old Pharmacist from Oslo.
+Name=Lucas;Age=29;Job=Data Scientist;Location=Rome,Lucas is a 29-year-old Data Scientist from Rome.
+Name=Isabella;Age=42;Job=Artist;Location=Berlin,Isabella is a 42-year-old Artist from Berlin.
+Name=Olivia;Age=19;Job=Nurse;Location=Tokyo,Olivia is a 19-year-old Nurse from Tokyo.
+Name=James;Age=42;Job=Developer;Location=Cairo,James is a 42-year-old Developer from Cairo.
+Name=Emma;Age=42;Job=Chef;Location=Toronto,Emma is a 42-year-old Chef from Toronto.
+Name=Noah;Age=30;Job=Data Scientist;Location=Rome,Noah is a 30-year-old Data Scientist from Rome.
+Name=Noah;Age=45;Job=Pharmacist;Location=Oslo,Noah is a 45-year-old Pharmacist from Oslo.
+Name=William;Age=25;Job=Nurse;Location=London,William is a 25-year-old Nurse from London.
+Name=James;Age=44;Job=Mechanic;Location=Rome,James is a 44-year-old Mechanic from Rome.
+Name=Olivia;Age=31;Job=Pharmacist;Location=Tokyo,Olivia is a 31-year-old Pharmacist from Tokyo.
+Name=Sophia;Age=33;Job=Nurse;Location=Oslo,Sophia is a 33-year-old Nurse from Oslo.
+Name=Ava;Age=39;Job=Developer;Location=Toronto,Ava is a 39-year-old Developer from Toronto.
+Name=Ava;Age=35;Job=Pilot;Location=Paris,Ava is a 35-year-old Pilot from Paris.
+Name=Sophia;Age=22;Job=Pharmacist;Location=Cairo,Sophia is a 22-year-old Pharmacist from Cairo.
+Name=Isabella;Age=35;Job=Data Scientist;Location=Tokyo,Isabella is a 35-year-old Data Scientist from Tokyo.
+Name=Noah;Age=49;Job=Pilot;Location=Cairo,Noah is a 49-year-old Pilot from Cairo.
+Name=Noah;Age=28;Job=Nurse;Location=Istanbul,Noah is a 28-year-old Nurse from Istanbul.
+Name=Isabella;Age=41;Job=Data Scientist;Location=Istanbul,Isabella is a 41-year-old Data Scientist from Istanbul.
+Name=Sophia;Age=35;Job=Artist;Location=Tokyo,Sophia is a 35-year-old Artist from Tokyo.
+Name=James;Age=49;Job=Artist;Location=Istanbul,James is a 49-year-old Artist from Istanbul.
+Name=Olivia;Age=42;Job=Pilot;Location=Cairo,Olivia is a 42-year-old Pilot from Cairo.
+Name=Noah;Age=48;Job=Nurse;Location=Rome,Noah is a 48-year-old Nurse from Rome.
+Name=Ava;Age=30;Job=Data Scientist;Location=Dubai,Ava is a 30-year-old Data Scientist from Dubai.
+Name=Noah;Age=22;Job=Mechanic;Location=Toronto,Noah is a 22-year-old Mechanic from Toronto.
+Name=Liam;Age=31;Job=Designer;Location=Paris,Liam is a 31-year-old Designer from Paris.
+Name=Liam;Age=27;Job=Developer;Location=Istanbul,Liam is a 27-year-old Developer from Istanbul.
+Name=William;Age=39;Job=Nurse;Location=Oslo,William is a 39-year-old Nurse from Oslo.
+Name=Emma;Age=39;Job=Data Scientist;Location=Tokyo,Emma is a 39-year-old Data Scientist from Tokyo.
+Name=Isabella;Age=37;Job=Developer;Location=Dubai,Isabella is a 37-year-old Developer from Dubai.
