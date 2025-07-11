@@ -1,7 +1,7 @@
 input,output
 Name=Amin;Age=19;Job=AIE;Location=Erbil,Amin is a 19-year-old AIE from Erbil.
 Name=John;Age=25;Job=Engineer;Location=New York,John is a 25-year-old Engineer from New York.
-Name=Noor;Age=18;Job=Civil Engineer;Location=Hawler,Art is a 18-year-old Civil Engineer from Erbil.
+Name=Art;Age=18;Job=Civil Engineer;Location=Hawler,Art is a 18-year-old Civil Engineer from Erbil.
 Name=Ahmed;Age=24;Job=Web-dev;Location=Erbil,Ahmed is a 24-year-old Web-dev from Erbil.
 Name=Hope;Age=18;Job=AIE;Location=Erbil,Hope is a 18-year-old AIE from Erbil.
 Name=Sara;Age=30;Job=Doc;Location=Bucharest,Sara is a 30-year-old Doc from Bucharest.
