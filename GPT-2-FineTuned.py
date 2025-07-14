@@ -1,7 +1,7 @@
 from datasets import load_dataset
 from transformers import GPT2Tokenizer,GPT2LMHeadModel,TrainingArguments,Trainer,pipeline
 
-dataset = load_dataset("text",data_files={"train":"sarcastic_qa_dataset.txt"})
+dataset = load_dataset("text",data_files={"train":"Data.txt"})# <===== you need to put your data here 
 
 tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
 tokenizer.pad_token = tokenizer.eos_token
