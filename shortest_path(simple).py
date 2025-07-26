@@ -12,6 +12,10 @@ def main(graph,start,end):
     total_dist = 0
     path = [start]
 
+    neighbor = graph[current]
+    if not neighbor:
+        return None,float("inf")
+        
     while current != end:
         next_node = list(graph[current].keys())[0]
         distance = graph[current][next_node]
