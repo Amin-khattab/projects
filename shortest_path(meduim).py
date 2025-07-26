@@ -1,3 +1,6 @@
+# this is done manually to compare the diffrence between checking the neighbors manually and automatically
+# just take a look at the shortest_path(mid) to see the diffrence
+
 graph = {
     "A": {"B": 2, "C": 3},
     "B": {"D": 1, "C": 3},
