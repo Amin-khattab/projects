@@ -18,7 +18,7 @@ def main(graph,start,end):
             return None,float("inf")
 
         next_node = min(neighbor, key=lambda n : neighbor[n])
-        distance = graph[neighbor][next_node]
+        distance = neighbor[next_node]
         total_distance += distance
         path.append(next_node)
         current = next_node
