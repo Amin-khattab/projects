@@ -10,6 +10,13 @@ model = GPT2LMHeadModel.from_pretrained("gpt2")
 
 dataset = load_dataset("wikitext","wikitext-2-raw-v1",split="train")
 
+# we could also do the data tokenization this way 
+#train_dataset = TextDataset(
+#    tokenizer=tokenizer,
+#    file_path="noor_handbook.txt",
+#    block_size=128
+#)
+
 def preprocess(example):
     return tokenizer(example["text"],padding="max_length",truncation=True,max_length=128)
 
