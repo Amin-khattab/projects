@@ -14,7 +14,7 @@ A mix of small Python projects I've built while learning — mostly chatbots, so
 | 06 | `06_regression_by_numpy.py` | Linear regression implemented from scratch with just NumPy, no ML libraries |
 | 07 | `07_GPT-2-FineTuned.py` | Fine-tuning GPT-2 on custom data |
 | 08 | `08_T5-FineTuned.py` | Same idea but with T5 — wanted to see the difference |
-| 09 | `09_tiny_shakespear(Transformer)-V1.py` | A tiny transformer trained on Shakespeare text — building one from the ground up |
+| 09 | `09_tiny_shakespear(Transformer)-V1.py` | A tiny transformer trained on Shakespeare text — Not complete !!! |
 
 ## Why this repo exists
 
