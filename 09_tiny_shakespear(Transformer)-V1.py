@@ -1,3 +1,5 @@
+# A small part of the actuall tiny_shakespear only the simplest version not The Full version.
+
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
